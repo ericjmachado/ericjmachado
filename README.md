@@ -15,11 +15,11 @@
 <p align="center">
    <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericjmachado&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericjmachado&layout=compact&theme=tokyonight&count_private=true"
     />
   <img   
       align="center"
       height="165" 
-       src="https://github-readme-stats.vercel.app/api?username=ericjmachado&show_icons=true&theme=tokyonight"
+       src="https://github-readme-stats.vercel.app/api?username=ericjmachado&show_icons=true&theme=tokyonight&count_private=true"
     />
 </p>
