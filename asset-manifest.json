@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ericjmachado/static/css/main.445e4d27.chunk.css",
+    "main.js": "/ericjmachado/static/js/main.c67770c4.chunk.js",
+    "main.js.map": "/ericjmachado/static/js/main.c67770c4.chunk.js.map",
+    "runtime-main.js": "/ericjmachado/static/js/runtime-main.0b40be6c.js",
+    "runtime-main.js.map": "/ericjmachado/static/js/runtime-main.0b40be6c.js.map",
+    "static/css/2.ede7ff0a.chunk.css": "/ericjmachado/static/css/2.ede7ff0a.chunk.css",
+    "static/js/2.863c8216.chunk.js": "/ericjmachado/static/js/2.863c8216.chunk.js",
+    "static/js/2.863c8216.chunk.js.map": "/ericjmachado/static/js/2.863c8216.chunk.js.map",
+    "color.less": "/ericjmachado/color.less",
+    "index.html": "/ericjmachado/index.html",
+    "static/css/2.ede7ff0a.chunk.css.map": "/ericjmachado/static/css/2.ede7ff0a.chunk.css.map",
+    "static/css/main.445e4d27.chunk.css.map": "/ericjmachado/static/css/main.445e4d27.chunk.css.map",
+    "static/js/2.863c8216.chunk.js.LICENSE.txt": "/ericjmachado/static/js/2.863c8216.chunk.js.LICENSE.txt",
+    "static/media/index.less": "/ericjmachado/static/media/PressStart2P-Regular.5479bce9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b40be6c.js",
+    "static/css/2.ede7ff0a.chunk.css",
+    "static/js/2.863c8216.chunk.js",
+    "static/css/main.445e4d27.chunk.css",
+    "static/js/main.c67770c4.chunk.js"
+  ]
+}
