@@ -18,7 +18,7 @@ const TypingTexts: React.FC<Props> = () => {
         <span role="img" aria-label="sheep">
           💻
         </span>{" "}
-        I'm a full-stack developer with knowledge in
+        I'm a Teach Lead with knowledge in
       </h3>
       <h3>
         <ReactTypingEffect
@@ -28,9 +28,13 @@ const TypingTexts: React.FC<Props> = () => {
           typingDelay={500}
           text={[
             "Django",
+            "AWS",
+            "RabbitMQ",
+            "Redis",
+            "Docker",
+            "MicroServices",
             "Ruby on Rails",
             "React JS",
-            "Angular",
             "Rest API",
             "Software architecture",
           ]}

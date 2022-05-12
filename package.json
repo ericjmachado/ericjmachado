@@ -1,11 +1,10 @@
 {
-  "homepage": "http://ericjmachado.github.io/ericjmachado",
-  "name": "wev-gamefolio",
+  "name": "eric-gamefolio",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "react-app-rewired start",
-    "build": "react-app-rewired build",
+    "build": "cd  build",
     "test": "react-app-rewired test",
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
